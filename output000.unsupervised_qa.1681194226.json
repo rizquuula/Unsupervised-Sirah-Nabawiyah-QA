@@ -1,0 +1,916 @@
+{
+    "cloze_id": "c849ed6ee44965394e134b05128fef8b458259d0",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas",
+    "source_start": 104,
+    "cloze_text": "Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik IDENTITYMASK, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas",
+    "answer_text": "Huyai bin Akhthab",
+    "answer_start": 89,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik siapa, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas?"
+} {
+    "cloze_id": "c4a3118752a61f44ed24c06582e36c50eda1966b",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas",
+    "source_start": 104,
+    "cloze_text": "Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke PLACEMASK ketika An-Nadhir ditumpas",
+    "answer_text": "Khaibar",
+    "answer_start": 131,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "GPE",
+    "question_text": "Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke dimana ketika An-Nadhir ditumpas?"
+} {
+    "cloze_id": "1ea528d7af77ee2ed3a1458950ae86304f2181c0",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir",
+    "source_start": 270,
+    "cloze_text": "IDENTITYMASK menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir",
+    "answer_text": "Ibnu Ishaq",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir?"
+} {
+    "cloze_id": "a8f21980935484ac65b3008c5b7e266ad98f5ae8",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir",
+    "source_start": 270,
+    "cloze_text": "Ibnu Ishaq menuturkan, \u201cIDENTITYMASK menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir",
+    "answer_text": "Rasulullah SAW",
+    "answer_start": 24,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Ibnu Ishaq menuturkan, \u201csiapa menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir?"
+} {
+    "cloze_id": "88ff135bc0eb938c1a06abd83dd1d7bda012a868",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir",
+    "source_start": 270,
+    "cloze_text": "Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui IDENTITYMASK yang menyimpan harta simpanan Bani Nadhir",
+    "answer_text": "Kinanah bin Ar-Rabi'",
+    "answer_start": 47,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui siapa yang menyimpan harta simpanan Bani Nadhir?"
+} {
+    "cloze_id": "2b66056fe4594c481989afef691bcf2930a37a81",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi",
+    "source_start": 501,
+    "cloze_text": "Tiba-tiba muncul salah seorang IDENTITYMASK yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi",
+    "answer_text": "Yahudi",
+    "answer_start": 31,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Tiba-tiba muncul salah seorang siapa yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi?"
+} {
+    "cloze_id": "56290389afe0fc644ba7e72259daa29b29e26667",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "\u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah",
+    "source_start": 624,
+    "cloze_text": "\u201d Beliau bertanya kepada IDENTITYMASK, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah",
+    "answer_text": "Kinanah",
+    "answer_start": 25,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "\u201d Beliau bertanya kepada siapa, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah?"
+} {
+    "cloze_id": "5d1a3d272f5a65909f7e057646d1bbbe8da5fd50",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau",
+    "source_start": 1455,
+    "cloze_text": "IDENTITYMASK menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau",
+    "answer_text": "Ibnul Qayyim",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau?"
+} {
+    "cloze_id": "df6c4128579947a6489288111203d27551d11aab",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau",
+    "source_start": 1455,
+    "cloze_text": "Ibnul Qayyim menyebutkan bahwa peristiwa IDENTITYMASK memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau",
+    "answer_text": "Rasulullah SAW",
+    "answer_start": 41,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Ibnul Qayyim menyebutkan bahwa peristiwa siapa memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau?"
+} {
+    "cloze_id": "48234e1c8edd1a343ea73fef6c5a0552ca8a777b",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau",
+    "source_start": 1455,
+    "cloze_text": "Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh NUMERICMASK anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau",
+    "answer_text": "dua",
+    "answer_start": 85,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "CRD",
+    "question_text": "Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh berapa anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau?"
+} {
+    "cloze_id": "0eb6d4209ad2bdb0ba1df55afc20bdf761211561",
+    "paragraph": {
+        "paragraph_id": "191b4bc9b7ce349999d7852470475268d1ae37ac",
+        "text": "Sekalipun anak Abil Huqaiq sudah menyetujui perjanjian ini, toh dia masih menyembunyikan sejumlah harta . Dia menyembunyikan tempat-tempat minyak wangi yang berisi berbagai macam perhiasan milik Huyai bin Akhthab, yang dulu dibawanya ke Khaibar ketika An-Nadhir ditumpas . Ibnu Ishaq menuturkan, \u201cRasulullah SAW menemui Kinanah bin Ar-Rabi' yang menyimpan harta simpanan Bani Nadhir . Beliau memintanya, namum Kinanah menolak permintaan ini, dengan alasan dia tidak mengetahui di mana harta itu disimpan . Tiba-tiba muncul salah seorang Yahudi yang berkata, \u201cAku tahu Kinanah mengitari bekas reruntuhan bangunan itu setiap pagi . \u201d Beliau bertanya kepada Kinanah, \u201cBagaimana jika aku membunuhmu jika ternyata harta benda itu bisa kami temukan?\u201d \u201cBoleh,\u201d jawab Kinanah . Maka beliau memeritahkan untuk memeriksa reruntuhan bangunan dan menggalinya . Ternyata harta benda itu memang ada di sana . Maka semua harta simpanan itu dikeluarkan dan beliau meminta sisanya yang lain . Namun Kinanah tetap membandel . Maka beliau menyerahkan Kiananah kepada Az-Zubair seraya bersabda, \u201cSiksa dia sampai engkau dapat mengambil semua yang ada di tangannya!\u201d Kemudian beliau menyerahkan kepada Muhammad bin Maslamah, lalu dia memenggal leher Kinanah hingga meninggal, sebagai pembalasan atas meninggalnya Mahmud bin Maslamah, yang terbunuh di bawah dinding benteng Na'im, setelah ditimpuk batu penggiling dari atas, karena saat itu Mahmud sedang berteduh di pinggir benteng itu . Ibnul Qayyim menyebutkan bahwa peristiwa Rasulullah SAW memerintahkan untuk membunuh dua anak Abui Huqaiq, setelah diketahui keduanya menyimpan harta benda yang semestinya diserahkan kepada beliau . Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq"
+    },
+    "source_text": "Beliau menahan Shafiyah binti Huyai bin Akhthab, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq",
+    "source_start": 1653,
+    "cloze_text": "Beliau menahan IDENTITYMASK, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq",
+    "answer_text": "Shafiyah binti Huyai bin Akhthab",
+    "answer_start": 15,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Beliau menahan siapa, yang saat itu baru saja melangsungkan pernikahan dengan Kinanah bin Abui Huqaiq?"
+} {
+    "cloze_id": "f87904a2437f4fc47d4c70d4c8b818d5fc101ad8",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "source_start": 0,
+    "cloze_text": "Mereka berkumpul di PLACEMASKkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "answer_text": "per",
+    "answer_start": 20,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "LOC",
+    "question_text": "Mereka berkumpul di dimanakampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib?"
+} {
+    "cloze_id": "df2a65d619dde35f54d3481cb02091eb8358177f",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "source_start": 0,
+    "cloze_text": "Mereka berkumpul di perkampungan PLACEMASK untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "answer_text": "Bani Kinanah",
+    "answer_start": 33,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "LOC",
+    "question_text": "Mereka berkumpul di perkampungan dimana untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib?"
+} {
+    "cloze_id": "933b1a265beb2e1136fb27f4da726e13aebf781e",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "source_start": 0,
+    "cloze_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi IDENTITYMASK Hasyim dan Bani Al-Muththalib",
+    "answer_text": "Bani",
+    "answer_start": 91,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "ORG",
+    "question_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi siapa Hasyim dan Bani Al-Muththalib?"
+} {
+    "cloze_id": "a808db851e87fc49bcdb01c1cae1b228cb0dee4a",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "source_start": 0,
+    "cloze_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani IDENTITYMASK dan Bani Al-Muththalib",
+    "answer_text": "Hasyim",
+    "answer_start": 96,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani siapa dan Bani Al-Muththalib?"
+} {
+    "cloze_id": "933b1a265beb2e1136fb27f4da726e13aebf781e",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib",
+    "source_start": 0,
+    "cloze_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan IDENTITYMASK Al-Muththalib",
+    "answer_text": "Bani",
+    "answer_start": 107,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "ORG",
+    "question_text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan siapa Al-Muththalib?"
+} {
+    "cloze_id": "14de4fd5ec78f79f4997acd14b74f67b99470c9c",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim",
+    "source_start": 544,
+    "cloze_text": "IDENTITYMASK berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim",
+    "answer_text": "Ibnul Qayyim",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim?"
+} {
+    "cloze_id": "ebdf5c7c855656bd104826f23ca3fa4bfb99a810",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "source_start": 921,
+    "cloze_text": "IDENTITYMASK dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "answer_text": "Bani Hasyim",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "siapa dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab?"
+} {
+    "cloze_id": "5e51e35d17f10d813e266507b96eba4a3d83bf12",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "source_start": 921,
+    "cloze_text": "Bani Hasyim dan PLACEMASK Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "answer_text": "Bani",
+    "answer_start": 16,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "GPE",
+    "question_text": "Bani Hasyim dan dimana Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab?"
+} {
+    "cloze_id": "2cd4cf43fa4f78f113bf47fe68e30b366675d0a1",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "source_start": 921,
+    "cloze_text": "Bani Hasyim dan Bani IDENTITYMASK bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "answer_text": "Al-Muththalib",
+    "answer_start": 21,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Bani Hasyim dan Bani siapa bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab?"
+} {
+    "cloze_id": "da731556c3851627fb802d80e21ffbd440605933",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "source_start": 921,
+    "cloze_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi NUMERICMASK, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "answer_text": "satu",
+    "answer_start": 53,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "CRD",
+    "question_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi berapa, yang Mukmin maupun yang kafir, kecuali Abu Lahab?"
+} {
+    "cloze_id": "530e54a969eb04300a61d48b9d81ed60a05dfa5f",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab",
+    "source_start": 921,
+    "cloze_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang IDENTITYMASK maupun yang kafir, kecuali Abu Lahab",
+    "answer_text": "Mukmin",
+    "answer_start": 64,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang siapa maupun yang kafir, kecuali Abu Lahab?"
+} {
+    "cloze_id": "d4f71028e9275cae5f6f262efaa52628df6ca5b0",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah",
+    "source_start": 1030,
+    "cloze_text": "Mereka mulai diisolir di PLACEMASK pada awal bulan Muharram tahun ketujuh dari nubuwah",
+    "answer_text": "Syi'ib Abu Thalib",
+    "answer_start": 25,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "LOC",
+    "question_text": "Mereka mulai diisolir di dimana pada awal bulan Muharram tahun ketujuh dari nubuwah?"
+} {
+    "cloze_id": "d49f7f76248d97fc672f325aff4d1763dd2920f2",
+    "paragraph": {
+        "paragraph_id": "939a4eb746a8ebd0dcab543517558fcdbd18afa2",
+        "text": "Mereka berkumpul di perkampungan Bani Kinanah untuk membuat kesepakatan bersama menghadapi Bani Hasyim dan Bani Al-Muththalib . Isinya: Larangan menikah, berjual beli, berteman, berkumpul, memasuki rumah, berbicara dengan mereka, kecuali jika secara suka rela mereka menyerahkan Muhammad untuk dibunuh . Untuk keperluan ini mereka menulis di atas selembar papan, berisi kesepakatan dan ketetapan untuk tidak menerima perjanjian dari Bani Hasyim dan tidak perlu ambil peduli terhadap keadaan mereka sebelum mereka menyerahkan beliau untuk dibunuh . Ibnul Qayyim berkata, \u201cAda yang berpendapat, piagam itu ditulis Manshur bin Ikrimah bin Amir bin Hasyim . Ada pula yang berpendapat dia adalah Nadhr bin Al-Harits . Yang benar, dia adalah Baghidh bin Amir bin Hayim . Rasulullah SAW berdoa untuk kemalangannya, hingga tangannya menjadi lumpuh . \u201d Piagam ini selesai dibuat, lalu papannya digantungkan di tembok bagian dalam Ka'bah . Bani Hasyim dan Bani Al-Muththalib bergabung menjadi satu, yang Mukmin maupun yang kafir, kecuali Abu Lahab . Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah"
+    },
+    "source_text": "Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan Muharram tahun ketujuh dari nubuwah",
+    "source_start": 1030,
+    "cloze_text": "Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan TEMPORALMASK tahun ketujuh dari nubuwah",
+    "answer_text": "Muharram",
+    "answer_start": 59,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "DAT",
+    "question_text": "Mereka mulai diisolir di Syi'ib Abu Thalib pada awal bulan kapan tahun ketujuh dari nubuwah?"
+} {
+    "cloze_id": "da263f4e58dd1127105ef4398de29668b1ca1ee5",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "source_start": 0,
+    "cloze_text": "IDENTITYMASK meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "answer_text": "Al-Imam Ahmad",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1?"
+} {
+    "cloze_id": "6376bd6868895c3c0c20df489ceaf45d44cc69d0",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "source_start": 0,
+    "cloze_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari IDENTITYMASK, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "answer_text": "Jabir",
+    "answer_start": 57,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari siapa, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1?"
+} {
+    "cloze_id": "e885a6c010e300983abcead04f5f69fbac85084c",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "source_start": 0,
+    "cloze_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai IDENTITYMASK, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "answer_text": "Rasulullah",
+    "answer_start": 99,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai siapa, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1?"
+} {
+    "cloze_id": "e885a6c010e300983abcead04f5f69fbac85084c",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1",
+    "source_start": 0,
+    "cloze_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan IDENTITYMASK: 1",
+    "answer_text": "Rasulullah",
+    "answer_start": 193,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan siapa: 1?"
+} {
+    "cloze_id": "2f901c5721e28ed7c2e5d692f826d97601787fbf",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "source_start": 636,
+    "cloze_text": "Dalam riwayat IDENTITYMASK sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "answer_text": "Ka'b",
+    "answer_start": 14,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Dalam riwayat siapa sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam?"
+} {
+    "cloze_id": "fb35dccf4650b69208612350056370c3c9bcb1d0",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "source_start": 636,
+    "cloze_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan IDENTITYMASK tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "answer_text": "Ibnu Ishaq",
+    "answer_start": 49,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan siapa tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam?"
+} {
+    "cloze_id": "2f901c5721e28ed7c2e5d692f826d97601787fbf",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "source_start": 636,
+    "cloze_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: IDENTITYMASK berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "answer_text": "Ka'b",
+    "answer_start": 120,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: siapa berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam?"
+} {
+    "cloze_id": "f2a93fec8a06c6a5b7d1a3bc6d8560973581183b",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "source_start": 636,
+    "cloze_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu IDENTITYMASK berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "answer_text": "Rasulullah SAW",
+    "answer_start": 140,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu siapa berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam?"
+} {
+    "cloze_id": "98b33769471f9a161d779113eb0bbbcea1459643",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "source_start": 636,
+    "cloze_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca IDENTITYMASK, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "answer_text": "Al-Qur'an",
+    "answer_start": 174,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca siapa, berdoa kepada Allah dan menyebutkan harapannya untuk Islam?"
+} {
+    "cloze_id": "03803adcd76e10cfc73fd88e525a35675dd088d4",
+    "paragraph": {
+        "paragraph_id": "1238361617ce0dad51794e7057fc138db5a35fbf",
+        "text": "Al-Imam Ahmad meriwayatkan masalah ini secara rinci dari Jabir, dia berkata, \u201cKami berkata, \u2018Wahai Rasulullah, untuk hal apa kami berbaiat kepada engkau?\u201d Inilah klausul baiat yang disampaikan Rasulullah: 1 . Untuk mendengar dan taat tatkala bersemangat dan malas . 2 . Untuk menafkahkan harta tatkala sulit dan mudah . 3 . Untuk menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar . 4 . Untuk berjuang karena Allah dan tidak merisaukan celaan orang yang suka mencela . 5 . Hendaklah kalian menolong j ika aku datang kepada kalian, melindungiku sebagaimana kalian melindungi diri, istri dan anak-anak kalian, dan bagi kalian adalah surga . Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam"
+    },
+    "source_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada Allah dan menyebutkan harapannya untuk Islam",
+    "source_start": 636,
+    "cloze_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada IDENTITYMASK dan menyebutkan harapannya untuk Islam",
+    "answer_text": "Allah",
+    "answer_start": 199,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Dalam riwayat Ka'b sebagaimana yang diriwayatkan Ibnu Ishaq tentang klausul yang terakhir, di dalamnya juga disebutkan: Ka'b berkata, \u201cLalu Rasulullah SAW berbicara, membaca Al-Qur'an, berdoa kepada siapa dan menyebutkan harapannya untuk Islam?"
+} {
+    "cloze_id": "35af57907a960cba7da24e56e09d66dfa316d161",
+    "paragraph": {
+        "paragraph_id": "69d4f9d03cc7d85b43cb19e1b4038086b8dd543c",
+        "text": "Kemudian beliau bersabda, \u201cAku membaiat kalian, agar kalian melindungiku sebagaimana kalian melindungi istri dan anak-anak kalian . \u201d Kemudian Al-Barra' bin Ma'rur memegang tangan beliau dan berkata, \u201cBenar . Demi yang mengutus engkau dengan benar, kami benar-benar akan melindungi engkau sebagaimana kami melindungi istri-istri kami . Maka baiatlah kami wahai Rasulullah . Demi Allah, kami adalah orang-orang yang mahir dalam perang dan mengepung musuh . Kami mewarisinya sejak dahulu . \u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan . Jika kami memutuskan hubungan itu dengan mereka, apakah ada kemungkinan jika Allah sudah memenangkan engkau, lalu engkau pergi meninggalkan kami?\u201d Beliau tersenyum, lalu bersabda, \u201cDarah dengan darah, kebinasaan dengan kebinasaan . Aku adalah bagian dari kalian dan kalian bagian dari diriku"
+    },
+    "source_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "source_start": 481,
+    "cloze_text": "\u201d IDENTITYMASK menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "answer_text": "Abui Haitsam bin At-Taihan",
+    "answer_start": 2,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "\u201d siapa menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan?"
+} {
+    "cloze_id": "afa044b17a7ec9559dae9fdfc685570c94840225",
+    "paragraph": {
+        "paragraph_id": "69d4f9d03cc7d85b43cb19e1b4038086b8dd543c",
+        "text": "Kemudian beliau bersabda, \u201cAku membaiat kalian, agar kalian melindungiku sebagaimana kalian melindungi istri dan anak-anak kalian . \u201d Kemudian Al-Barra' bin Ma'rur memegang tangan beliau dan berkata, \u201cBenar . Demi yang mengutus engkau dengan benar, kami benar-benar akan melindungi engkau sebagaimana kami melindungi istri-istri kami . Maka baiatlah kami wahai Rasulullah . Demi Allah, kami adalah orang-orang yang mahir dalam perang dan mengepung musuh . Kami mewarisinya sejak dahulu . \u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan . Jika kami memutuskan hubungan itu dengan mereka, apakah ada kemungkinan jika Allah sudah memenangkan engkau, lalu engkau pergi meninggalkan kami?\u201d Beliau tersenyum, lalu bersabda, \u201cDarah dengan darah, kebinasaan dengan kebinasaan . Aku adalah bagian dari kalian dan kalian bagian dari diriku"
+    },
+    "source_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "source_start": 481,
+    "cloze_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan IDENTITYMASK yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "answer_text": "Al-Barra'",
+    "answer_start": 47,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan siapa yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan?"
+} {
+    "cloze_id": "f37208f2b49361c1ce92bca8b910dcccf9b79b83",
+    "paragraph": {
+        "paragraph_id": "69d4f9d03cc7d85b43cb19e1b4038086b8dd543c",
+        "text": "Kemudian beliau bersabda, \u201cAku membaiat kalian, agar kalian melindungiku sebagaimana kalian melindungi istri dan anak-anak kalian . \u201d Kemudian Al-Barra' bin Ma'rur memegang tangan beliau dan berkata, \u201cBenar . Demi yang mengutus engkau dengan benar, kami benar-benar akan melindungi engkau sebagaimana kami melindungi istri-istri kami . Maka baiatlah kami wahai Rasulullah . Demi Allah, kami adalah orang-orang yang mahir dalam perang dan mengepung musuh . Kami mewarisinya sejak dahulu . \u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan . Jika kami memutuskan hubungan itu dengan mereka, apakah ada kemungkinan jika Allah sudah memenangkan engkau, lalu engkau pergi meninggalkan kami?\u201d Beliau tersenyum, lalu bersabda, \u201cDarah dengan darah, kebinasaan dengan kebinasaan . Aku adalah bagian dari kalian dan kalian bagian dari diriku"
+    },
+    "source_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "source_start": 481,
+    "cloze_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan IDENTITYMASK, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "answer_text": "Rasulullah SAW",
+    "answer_start": 85,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan siapa, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan?"
+} {
+    "cloze_id": "0113a7939dfa8111f95e8ee0c4f9c7df78c238b9",
+    "paragraph": {
+        "paragraph_id": "69d4f9d03cc7d85b43cb19e1b4038086b8dd543c",
+        "text": "Kemudian beliau bersabda, \u201cAku membaiat kalian, agar kalian melindungiku sebagaimana kalian melindungi istri dan anak-anak kalian . \u201d Kemudian Al-Barra' bin Ma'rur memegang tangan beliau dan berkata, \u201cBenar . Demi yang mengutus engkau dengan benar, kami benar-benar akan melindungi engkau sebagaimana kami melindungi istri-istri kami . Maka baiatlah kami wahai Rasulullah . Demi Allah, kami adalah orang-orang yang mahir dalam perang dan mengepung musuh . Kami mewarisinya sejak dahulu . \u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan . Jika kami memutuskan hubungan itu dengan mereka, apakah ada kemungkinan jika Allah sudah memenangkan engkau, lalu engkau pergi meninggalkan kami?\u201d Beliau tersenyum, lalu bersabda, \u201cDarah dengan darah, kebinasaan dengan kebinasaan . Aku adalah bagian dari kalian dan kalian bagian dari diriku"
+    },
+    "source_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai Rasulullah, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "source_start": 481,
+    "cloze_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai IDENTITYMASK, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan",
+    "answer_text": "Rasulullah",
+    "answer_start": 124,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "\u201d Abui Haitsam bin At-Taihan menyela perkataan Al-Barra' yang masih berbicara dengan Rasulullah SAW, dengan berkata, \u201cWahai siapa, sesungguhnya antara kami dan orang-orang selain kami (Yahudi) ada hubungan persahabatan?"
+} {
+    "cloze_id": "f85f425ce6a04fef0d3fad671f1b7598f46ada01",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau",
+    "source_start": 0,
+    "cloze_text": "Kawanan NUMERICMASK Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau",
+    "answer_text": "Pertama",
+    "answer_start": 8,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "ORD",
+    "question_text": "Kawanan berapa Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau?"
+} {
+    "cloze_id": "6a96d6eef854dd19cb1754966736825a4c26a4d4",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau",
+    "source_start": 0,
+    "cloze_text": "Kawanan Pertama Sangat lumrah jika IDENTITYMASK menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau",
+    "answer_text": "Rasulullah S",
+    "answer_start": 35,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Kawanan Pertama Sangat lumrah jika siapa menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau?"
+} {
+    "cloze_id": "21e402e5a52e26f1ffaa3ff8cdac2e58bba0775d",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam)",
+    "source_start": 636,
+    "cloze_text": "Dalam Tarikh IDENTITYMASK, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam)",
+    "answer_text": "Islam",
+    "answer_start": 13,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Dalam Tarikh siapa, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam)?"
+} {
+    "cloze_id": "2c167c120ad464d3ebe5a6a30c68aa27b29d4b96",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam)",
+    "source_start": 636,
+    "cloze_text": "Dalam Tarikh Islam, mereka dikenal dengan sebutan IDENTITYMASK (yang terdahulu dan yang pertama-tama masuk Islam)",
+    "answer_text": "As-Sabiqunal-Awwalun",
+    "answer_start": 50,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Dalam Tarikh Islam, mereka dikenal dengan sebutan siapa (yang terdahulu dan yang pertama-tama masuk Islam)?"
+} {
+    "cloze_id": "e62ace635a79664c700b808e1c4dc0b7fbb9877c",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "source_start": 758,
+    "cloze_text": "Mereka adalah istri beliau, IDENTITYMASK, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "answer_text": "Ummul Mukminin Khadijah binti Khuwailid",
+    "answer_start": 28,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Mereka adalah istri beliau, siapa, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah?"
+} {
+    "cloze_id": "f6d9503d30ef3fe9a78218db82a0785602704c54",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "source_start": 758,
+    "cloze_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, IDENTITYMASK,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "answer_text": "Zaid bin Haritsah bin Syurahbil Al-Kalby",
+    "answer_start": 86,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, siapa,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah?"
+} {
+    "cloze_id": "ff8da2046d3011e6d999b03bd8e0e57ae313c147",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "source_start": 758,
+    "cloze_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, IDENTITYMASK, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "answer_text": "Ali bin Abu Thalib",
+    "answer_start": 149,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, siapa, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah?"
+} {
+    "cloze_id": "1a16a38da17f049a3447487910465bfb7ccd2cec",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "source_start": 758,
+    "cloze_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu IDENTITYMASK masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah",
+    "answer_text": "Ali",
+    "answer_start": 183,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu siapa masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah?"
+} {
+    "cloze_id": "e474c8419d8f794fd322b3d587d97ee1f5d39b05",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Kemudian Khadij ah memberikan kepada Rasulullah",
+    "source_start": 1029,
+    "cloze_text": "Kemudian IDENTITYMASK ah memberikan kepada Rasulullah",
+    "answer_text": "Khadij",
+    "answer_start": 9,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Kemudian siapa ah memberikan kepada Rasulullah?"
+} {
+    "cloze_id": "dcb76dd6d79b594170a8fc132a86637f775f6080",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Mereka ini masuk Islam pada hari pertama dimulainya dakwah",
+    "source_start": 1307,
+    "cloze_text": "Mereka ini masuk IDENTITYMASK pada hari pertama dimulainya dakwah",
+    "answer_text": "Islam",
+    "answer_start": 17,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Mereka ini masuk siapa pada hari pertama dimulainya dakwah?"
+} {
+    "cloze_id": "fa320e09bea87d51f9ea40239e011a3dd4feeac0",
+    "paragraph": {
+        "paragraph_id": "08257eabda3317205bde690179745a8d29ebf77b",
+        "text": "Kawanan Pertama Sangat lumrah jika Rasulullah S menampakkan Islam pada awal mulanya kepada orang yang paling dekat dengan beliau, anggota keluarganya dan sahabat-sahabat karib beliau. Beliau menyeru mereka kepada Islam, juga menyeru siapa pun yang dirasa memiliki kebaikan, yang sudah beliau kenal secara baik dan mereka pun mengenal beliau secara baik, yaitu mereka yang memang diketahui mencintai kebaikan dan kebenaran, mengenal kejujuran dan kelurusan beliau. Maka mereka yang diseru ini langsung memenuhi seruan beliau, karena mereka sama sekali tidak menyangsikan keagungan diri beliau dan kejujuran pengabaran yang beliau sampaikan. Dalam Tarikh Islam, mereka dikenal dengan sebutan As-Sabiqunal-Awwalun (yang terdahulu dan yang pertama-tama masuk Islam). Mereka adalah istri beliau, Ummul Mukminin Khadijah binti Khuwailid, pembantu beliau, Zaid bin Haritsah bin Syurahbil Al-Kalby,63 anak paman beliau, Ali bin Abu Thalib, yang saat itu Ali masih 63 Dulunya dia merupakan tawanan lalu dij adikan budak dan dimiliki Khadij ah. Kemudian Khadij ah memberikan kepada Rasulullah. Bapak dan pamannya pernah menemuinya untuk dibawa kembali ke tengah kaumnya. Namun dia lebih suka memilih hidup bersama Rasulullah. Beliau meng- anak-anak dan hidup dalam asuhan beliau dan sahabat karib beliau. Abu Bakar Ash-Shiddiq. Mereka ini masuk Islam pada hari pertama dimulainya dakwah. Abu Bakar sangat bersemangat dalam berdakwah kepada Islam. Dia adalah seorang laki-laki yang lemah lembut, pengasih dan ramah, memiliki akhlak yang mulia dan terkenal. Kaumnya suka mendatangi Abu Bakar dan menyenanginya, karena dia dikenal sebagai orang yang memiliki pengetahuan dan sukses dalam berdagang serta baik pergaulannya dengan orang lain. Maka dia menyeru orang-orang dari kaumnya yang biasa duduk-duduk bersamanya dan yang dapat dipercayainya"
+    },
+    "source_text": "Abu Bakar sangat bersemangat dalam berdakwah kepada Islam",
+    "source_start": 1366,
+    "cloze_text": "IDENTITYMASK sangat bersemangat dalam berdakwah kepada Islam",
+    "answer_text": "Abu Bakar",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa sangat bersemangat dalam berdakwah kepada Islam?"
+} {
+    "cloze_id": "c773a9705023504593be58bdcb18cde6c22054e3",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "source_start": 0,
+    "cloze_text": "Berkat seruannya, ada beberapa orang yang masuk IDENTITYMASK, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "answer_text": "Islam",
+    "answer_start": 48,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Berkat seruannya, ada beberapa orang yang masuk siapa, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi?"
+} {
+    "cloze_id": "26cba1f9cdd2912e6b97f6f24a026a6cb2d13a0b",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "source_start": 0,
+    "cloze_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu IDENTITYMASK, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "answer_text": "Utsman bin Affan Al-Umawi",
+    "answer_start": 61,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu siapa, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi?"
+} {
+    "cloze_id": "ff6f4ada0d7bddf6a2306d44705c8bfb222340af",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "source_start": 0,
+    "cloze_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, IDENTITYMASK, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "answer_text": "Az-Zubair bin Al-Awwan Al-Asadi",
+    "answer_start": 88,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, siapa, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi?"
+} {
+    "cloze_id": "6402dc5e15f55d02b634e80c80a35f59b5c55ab7",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "source_start": 0,
+    "cloze_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, IDENTITYMASK, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "answer_text": "Abdurrahman bin Auf",
+    "answer_start": 121,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, siapa, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi?"
+} {
+    "cloze_id": "625222d6d85291b522a1d41ac9c143d5a4588dd2",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi",
+    "source_start": 0,
+    "cloze_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, IDENTITYMASK dan Thalhah bin Ubaidillah At-Taimi",
+    "answer_text": "Sa\u2019d bin Abi Waqqash Az-Zuhriyah",
+    "answer_start": 142,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, siapa dan Thalhah bin Ubaidillah At-Taimi?"
+} {
+    "cloze_id": "7930a19ee3f0932d387e2b4fa7153ae8d1baa592",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini",
+    "source_start": 210,
+    "cloze_text": "Kawanan lain yang juga lebih dahulu masuk IDENTITYMASK adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini",
+    "answer_text": "Islam",
+    "answer_start": 42,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Kawanan lain yang juga lebih dahulu masuk siapa adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini?"
+} {
+    "cloze_id": "65cad503de09adb0d4fd1c4976856aff287cdf79",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang",
+    "source_start": 794,
+    "cloze_text": "IDENTITYMASK menghitung jumlah mereka lebih dari empat puluh orang",
+    "answer_text": "Ibnu Hisyam",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa menghitung jumlah mereka lebih dari empat puluh orang?"
+} {
+    "cloze_id": "f57bf5eb843d7699be081f7cd5c4ecd457a958b0",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya",
+    "source_start": 929,
+    "cloze_text": "64 IDENTITYMASK berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya",
+    "answer_text": "Ibnu Ishaq",
+    "answer_start": 3,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "64 siapa berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya?"
+} {
+    "cloze_id": "b78ae4fd8fcda10d71f77f1f1ecac2a7471397bd",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya",
+    "source_start": 929,
+    "cloze_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk IDENTITYMASK baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya",
+    "answer_text": "Islam",
+    "answer_start": 60,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk siapa baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya?"
+} {
+    "cloze_id": "b78ae4fd8fcda10d71f77f1f1ecac2a7471397bd",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya",
+    "source_start": 929,
+    "cloze_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama IDENTITYMASK menyebar di seluruh Makkah dan banyak yang membicarakannya",
+    "answer_text": "Islam",
+    "answer_start": 110,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama siapa menyebar di seluruh Makkah dan banyak yang membicarakannya?"
+} {
+    "cloze_id": "f51cddfdd9af395ac9158312d9331d1af4173d46",
+    "paragraph": {
+        "paragraph_id": "8809772fa98fd0a4c0c120c073d24b646794f709",
+        "text": "Berkat seruannya, ada beberapa orang yang masuk Islam, yaitu Utsman bin Affan Al-Umawi, Az-Zubair bin Al-Awwan Al-Asadi, Abdurrahman bin Auf, Sa\u2019d bin Abi Waqqash Az-Zuhriyah dan Thalhah bin Ubaidillah At-Taimi. Kawanan lain yang juga lebih dahulu masuk Islam adalah Bilal bin Rabbah Al-Habsyi, kemudian disusul kerpercayaan umat ini. Abu Ubaidah Amir bin Al-Jarrah dari Bani Al-Harits bin Fihr, Abu Salamah bin Abdul Asad, Al-Arqam bin Abil-Arqam Al-Makhzumi, Utsman bin Mazh\u2019un dan kedua saudaranya, Qudamah dan Abdullah, Ubaidah bin Al-Harits bin Al-Muththalib bin Abdi Manaf, Sa\u2019id bin Zaid Al-Adawi dan istrinya, Al-Khaththab, Khabbab bin Al- Aratt, Abdullah bin Mas\u2019ud Al-Hudzali dan masih banyak lagi. Mereka ini juga disebut As-Sabiqunal-Awwalun, yang semuanya berasal dari kabilah Quraisy. Ibnu Hisyam menghitung jumlah mereka lebih dari empat puluh orang. Namun siapa-siapa yang selain disebutkan di atas perlu diteliti lagi.64 Ibnu Ishaq berkata, \u201cSetelah itu banyak orang yang masuk Islam baik laki-laki maupun wanita, sehingga nama Islam menyebar di seluruh Makkah dan banyak yang membicarakannya.65 Mereka masuk Islam secara sembunyi-sembunyi. Rasulullah S menemui mereka dan mengajarkan agama secara kucing-kucingan. Sebab, dakwah saat itu dilakukan secara sembunyi-sembunyi dan perorangan. Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir. Ayat-ayat dan potongan surat yang turun saat itu berupa ayat-ayat pendek, dengan penggalan-penggalan kata yang indah menawan dan sentuhan lembut, sesuai dengan iklim yang juga lembut pada saat itu, berisi sanjungan mensucikan jiwa dan celaan mengotorinya dengan keduaan, berisi ciri-ciri surga dan neraka, angkatnya sebagai anak layaknya anak kandung seperti yang biasa berlaku di kalangan bangsa Arab. Sehingga dikatakan, \u201dZaid bin Muhammad\u201d"
+    },
+    "source_text": "Wahyu diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir",
+    "source_start": 1295,
+    "cloze_text": "IDENTITYMASK diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir",
+    "answer_text": "Wahyu",
+    "answer_start": 0,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "PER",
+    "question_text": "siapa diturunkan sedikit demi sedikit lalu berhenti setelah turunnya awal surat Al-Muddatstsir?"
+} {
+    "cloze_id": "7006b6a5f73f83fac9d2556a48d1b2971850674f",
+    "paragraph": {
+        "paragraph_id": "9bccafc2eb2faec36d80633e7032289357bea901",
+        "text": "Hingga datang Islam yang menghapus anak angkat yang seakan-akan keduanya tampak di depan mata, membawa orang-orang Mukmin ke dunia lain tidak seperti dunia yang ada pada saat itu."
+    },
+    "source_text": "Hingga datang Islam yang menghapus anak angkat yang seakan-akan keduanya tampak di depan mata, membawa orang-orang Mukmin ke dunia lain tidak seperti dunia yang ada pada saat itu",
+    "source_start": 0,
+    "cloze_text": "Hingga datang IDENTITYMASK yang menghapus anak angkat yang seakan-akan keduanya tampak di depan mata, membawa orang-orang Mukmin ke dunia lain tidak seperti dunia yang ada pada saat itu",
+    "answer_text": "Islam",
+    "answer_start": 14,
+    "constituency_parse": null,
+    "root_label": null,
+    "answer_type": "REG",
+    "question_text": "Hingga datang siapa yang menghapus anak angkat yang seakan-akan keduanya tampak di depan mata, membawa orang-orang Mukmin ke dunia lain tidak seperti dunia yang ada pada saat itu?"
+}
